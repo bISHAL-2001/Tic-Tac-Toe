@@ -5,7 +5,7 @@ This repository contains python based interactive Tic-Tac-Toe game.
 ## Running Tic-Tac-Toe:
 
 ```
-https://github.com/bISHAL-2001/Tic-Tac-Toe.git
+git clone https://github.com/bISHAL-2001/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 python main.py
 ```
