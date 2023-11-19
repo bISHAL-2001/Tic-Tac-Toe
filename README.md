@@ -34,5 +34,5 @@ python main.py
 
 
 ## Author
-[BISHAL KUMAR GHOSH](https://www.prism.gatech.edu/~manwar8)
+[BISHAL KUMAR GHOSH](https://bishal-kumar-ghosh-portfolio-06-2001.web.app)
 
