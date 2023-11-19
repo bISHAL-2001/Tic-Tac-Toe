@@ -16,7 +16,7 @@ python main.py
 
 ## Interface
 <p align="center">
-<img width=1000 src="/images/Game Interface.png">
+<img width=500 src="/images/Game Interface.png">
 </p>
 
 ## Results Interface
